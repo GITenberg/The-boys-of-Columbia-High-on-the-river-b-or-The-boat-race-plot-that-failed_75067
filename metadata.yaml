@@ -1,11 +1,16 @@
 _repo: The-boys-of-Columbia-High-on-the-river-b-or-The-boat-race-plot-that-failed_75067
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75067-h/images/cover.jpg
 creator:
   author:
     agent_name: Forbes, Graham B.
     gutenberg_agent_id: '2243'
     url: http://www.gutenberg.org/2009/agents/2243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75067#The-boys-of-Columbia-High-on-the-river-b-or-The-boat-race-plot-that-failed
 gutenberg_issued: '2025-01-08'
 gutenberg_type: Text
 identifiers:
